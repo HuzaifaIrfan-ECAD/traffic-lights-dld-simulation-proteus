@@ -1,4 +1,4 @@
-# Scalable Multi Lane Traffic Lights Simulation in Proteus
+# Traffic Lights DLD Simulation in Proteus
 
 
 Developed By Huzaifa Irfan
@@ -10,11 +10,9 @@ https://www.youtube.com/watch?v=JIxCoIGWEc4
 
 
 ## Description
-Scalable Multi Lane Traffic Lights Simulation in Proteus
+Traffic Lights Simulation in Proteus
 Without any Microcontroller
 Using only Logic Gates and ICs.
-
-Unit based approach and can be scalable to infinite number of traffics lights and lanes.
 
 For DLD LAB Semester Project
 
