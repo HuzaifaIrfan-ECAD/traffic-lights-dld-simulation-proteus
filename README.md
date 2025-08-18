@@ -5,8 +5,9 @@
   <p><h3 align="center">DLD Simulation in Proteus 🚀</h3></p>
 </div>
 
-[Simulation Video](https://www.youtube.com/watch?v=JIxCoIGWEc4)
-&nbsp;&nbsp;•&nbsp;&nbsp;
+## 🎬 Demo Video
+
+[![Demo](https://img.youtube.com/vi/JIxCoIGWEc4/0.jpg)](https://www.youtube.com/watch?v=JIxCoIGWEc4)
 
 <hr>
 
