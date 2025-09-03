@@ -1,26 +1,21 @@
-<br />
-
 <div align="center">
   <h1>Traffic Lights DLD Sim Proteus </h1>
   <p><h3 align="center">DLD Simulation in Proteus 🚀</h3></p>
 </div>
 
-## 🎬 Demo Video
 
-[![Demo](https://img.youtube.com/vi/JIxCoIGWEc4/0.jpg)](https://www.youtube.com/watch?v=JIxCoIGWEc4)
+## 🎬 Demo
+
+[▶️![Demo](https://img.youtube.com/vi/JIxCoIGWEc4/maxresdefault.jpg)](https://www.youtube.com/watch?v=JIxCoIGWEc4)
 
 <hr>
 
 
-<div align="center">
 
-![GitHub Stars](https://img.shields.io/github/stars/HuzaifaIrfan/Traffic-Lights-DLD-Simulation-Proteus.svg)
-![GitHub Issues](https://img.shields.io/github/issues/HuzaifaIrfan/Traffic-Lights-DLD-Simulation-Proteus.svg)
-![Current Version](https://img.shields.io/badge/version-1.0.0-green.svg)
 
 ![cover](cover.png)
 
-</div>
+
 
 ## Description
 
@@ -45,17 +40,19 @@ For DLD LAB Semester Project
 9.	SR-LATCHES 
 10.	Wires
 
-## 🤝🏻 &nbsp;Connect with Me
 
-<p align="center">
-<a href="https://www.huzaifairfan.com"><img src="https://img.shields.io/badge/-huzaifairfan.com-1aa260?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/huzaifairfan/"><img src="https://img.shields.io/badge/-Huzaifa%20Irfan-0072b1?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://github.com/HuzaifaIrfan/"><img src="https://img.shields.io/badge/-Huzaifa%20Irfan-4078c0?style=flat&logo=Github&logoColor=white"/></a>
-<a href="mailto:contact@huzaifairfan.com"><img src="https://img.shields.io/badge/-contact@huzaifairfan.com-c71610?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/huzaifairfan2001/"><img src="https://img.shields.io/badge/-@huzaifairfan2001-cd486b?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/huzaifairfan2001/"><img src="https://img.shields.io/badge/-@huzaifairfan2001-4267B2?style=flat&logo=Facebook&logoColor=white"/></a>
-</p>
 
-## License
+# 📝 Documentation
 
-Licensed under the MIT License, Copyright 2023 Huzaifa Irfan. [LICENSE](LICENSE)
+# 📚 References
+
+
+# 🤝🏻 Connect with Me
+
+[![GitHub](https://img.shields.io/badge/Github-%23222.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HuzaifaIrfan/)
+[![Website](https://img.shields.io/badge/Website-%23222.svg?style=for-the-badge&logo=google-chrome&logoColor==%234285F4)](https://www.huzaifairfan.com)
+
+# 📜 License
+
+Licensed under the GPL3 License, Copyright 2025 Huzaifa Irfan. [LICENSE](LICENSE)
+
