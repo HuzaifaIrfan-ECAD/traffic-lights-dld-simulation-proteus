@@ -19,8 +19,6 @@
 
 ## Description
 
-Developed on : 3 January 2021
-
 Traffic Lights Simulation in Proteus
 Without any Microcontroller
 Using only Logic Gates and ICs.
@@ -56,3 +54,4 @@ For DLD LAB Semester Project
 
 Licensed under the GPL3 License, Copyright 2025 Huzaifa Irfan. [LICENSE](LICENSE)
 
+Last Updated on 2021-01-03
